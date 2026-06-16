@@ -87,7 +87,7 @@ The objective is to uncover actionable insights that can help law enforcement ag
 - Enables authorities to identify theft hotspots.
 
 ## 🚀 Conclusion
-This dashboard converts raw vehicle theft records into actionable insights, helping stakeholders make data-driven decisions for theft prevention and risk management.
+This dashboard converts raw vehicle theft records into actionable insights, supproting for law enforcement to identify hotspots and helps insurance companies and vehicle owners to make data-driven decisions for theft prevention and risk management.
 
 **Created Using:** Microsoft Excel  
 **Project Type:** Data Analytics Capstone Project  
