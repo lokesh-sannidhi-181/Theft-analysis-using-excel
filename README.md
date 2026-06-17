@@ -1,4 +1,4 @@
-# 🚗 Vehicle Theft Analysis Dashboard – README
+<img width="1858" height="588" alt="Screenshot 2026-06-16 230717" src="https://github.com/user-attachments/assets/7b9ef24e-015f-4d4d-8cfd-d7e7e764c34e" /># 🚗 Vehicle Theft Analysis Dashboard – README
 
 ## 📌 Project Title
 **Vehicle Theft Analysis in New Zealand**
@@ -92,3 +92,5 @@ This dashboard converts raw vehicle theft records into actionable insights, supp
 **Created Using:** Microsoft Excel  
 **Project Type:** Data Analytics Capstone Project  
 **Domain:** Transportation & Public Safety Analytics 🚔📊
+<img width="1858" height="588" alt="Screenshot 2026-06-16 230717" src="https://github.com/user-attachments/assets/0fcec59c-af33-4f58-b910-5b3d9c7c25d8" />
+
